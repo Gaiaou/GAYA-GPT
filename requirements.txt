@@ -1,0 +1,8 @@
+# GAYA GPT Core Dependencies
+colorama>=0.4.6        # Terminal styling
+python-dotenv>=1.0.0   # Environment configuration
+mistralai>=0.0.7      # AI processing
+requests>=2.31.0       # API communication
+
+# AI Providers (uncomment your choice)
+# openai>=1.0.0       # For OpenAI

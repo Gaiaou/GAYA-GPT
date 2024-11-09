@@ -1,0 +1,32 @@
+# Environment variables
+.env
+.env.*
+
+# Python virtual environment
+venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Personal information
+config.json
+secrets.json
+credentials.json
+
+# Logs
+*.log
+logs/
+
+# System files
+.DS_Store
+Thumbs.db
